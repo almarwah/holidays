@@ -360,7 +360,7 @@
         "status": "CONFIRMED"
     },
     "20230407": {
-        "deskripsi": "Kenaikan Al Masih",
+        "deskripsi": "Wafat Isa Al Masih",
         "dibuat": "20210826T115927Z",
         "dimodifikasi": "20210826T115927Z",
         "status": "CONFIRMED"
@@ -394,49 +394,101 @@
         "dibuat": "20210826T115927Z",
         "dimodifikasi": "20210826T115927Z",
         "status": "CONFIRMED"
-    },"20230425": {
-        "deskripsi": "Cuti Bersama",
-        "dibuat": "20210826T115927Z",
-        "dimodifikasi": "20210826T115927Z",
-        "status": "CONFIRMED"
-    },"20230426": {
-        "deskripsi": "Cuti Bersama",
-        "dibuat": "20210826T115927Z",
-        "dimodifikasi": "20210826T115927Z",
-        "status": "CONFIRMED"
-    },"20230427": {
-        "deskripsi": "Cuti Bersama",
-        "dibuat": "20210826T115927Z",
-        "dimodifikasi": "20210826T115927Z",
-        "status": "CONFIRMED"
-    },"20230428": {
+    },
+    "20230425": {
         "deskripsi": "Cuti Bersama",
         "dibuat": "20210826T115927Z",
         "dimodifikasi": "20210826T115927Z",
         "status": "CONFIRMED"
     },
-    "20231002": {
-        "deskripsi": "Hari Batik",
+    "20230426": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20230427": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20230428": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20230501": {
+        "deskripsi": "Hari Buruh Internasional",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20230518": {
+        "deskripsi": "Kenaikan Isa Al Masih",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20230601": {
+        "deskripsi": "Hari Lahir Pancasila",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20230629": {
+        "deskripsi": "Hari Raya Idul Adha",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20230719": {
+        "deskripsi": "Tahun Baru Islam 1445 Hijriah",
         "dibuat": "20210826T115903Z",
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
-    "20231112": {
-        "deskripsi": "Hari Ayah",
+    "20230817": {
+        "deskripsi": "Hari Kemerdekaan Republik Indonesia",
         "dibuat": "20210826T115927Z",
         "dimodifikasi": "20210826T115927Z",
         "status": "CONFIRMED"
     },
-    "20231125": {
-        "deskripsi": "Hari Guru",
+    "20230928": {
+        "deskripsi": "Maulid Nabi Muhammad SAW",
         "dibuat": "20210826T115927Z",
         "dimodifikasi": "20210826T115927Z",
         "status": "CONFIRMED"
     },
-    "20231222": {
-        "deskripsi": "Hari Ibu",
+    "20231225": {
+        "deskripsi": "Hari Natal",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20231226": {
+        "deskripsi": "Cuti Bersama",
         "dibuat": "20210826T115903Z",
         "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20231227": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20231228": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
+        "status": "CONFIRMED"
+    },
+    "20231229": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115927Z",
+        "dimodifikasi": "20210826T115927Z",
         "status": "CONFIRMED"
     },
     "created-at": "2022-01-02 04:01"
