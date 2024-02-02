@@ -491,5 +491,23 @@
         "dimodifikasi": "20210826T115927Z",
         "status": "CONFIRMED"
     },
+    "20240101": {
+        "deskripsi": "Hari Tahun Baru",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240208": {
+        "deskripsi": "Isra Miraj Nabi Muhammad SAW",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240214": {
+        "deskripsi": "Pemilu 2024",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
     "created-at": "2022-01-02 04:01"
 }
