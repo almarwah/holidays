@@ -509,5 +509,23 @@
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
+    "20240311": {
+        "deskripsi": "Hari Suci Nyepi Tahun Baru Saka 1946",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240329": {
+        "deskripsi": "Wafat Isa Al Masih",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240331": {
+        "deskripsi": "Hari Paskah",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
     "created-at": "2022-01-02 04:01"
 }
