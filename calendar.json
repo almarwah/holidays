@@ -527,5 +527,77 @@
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
+    "20240408": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240409": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240410": {
+        "deskripsi": "Hari Raya Idul Fitri 1445 H",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240411": {
+        "deskripsi": "Hari Raya Idul Fitri 1445 H",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240412": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240415": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240501": {
+        "deskripsi": "Hari Buruh Internasional",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240509": {
+        "deskripsi": "Kenaikan Isa Al Masih",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240523": {
+        "deskripsi": "Hari Raya Waisak 2568 BE",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240617": {
+        "deskripsi": "Hari Raya Idul Adha 1445 H",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20240916": {
+        "deskripsi": "Maulid Nabi Muhammad SAW",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20241225": {
+        "deskripsi": "Hari Raya Natal",
+        "dibuat": "20210826T115903Z",
+        "dimodifikasi": "20210826T115903Z",
+        "status": "CONFIRMED"
+    },
     "created-at": "2022-01-02 04:01"
 }
